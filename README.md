@@ -3,8 +3,8 @@
 This repository contains a project focused on fine-tuning a pre-trained model from HuggingFace to accurately classify images of birds, cats, and dogs. The project also includes a Streamlit application to demonstrate the model's performance.
 
 ### Model and dataset:
-Pre-trained Model: 'akahana/vit-base-cats-vs-dogs'
-Dataset: [High-Resolution Cat, Dog, and Bird Image Dataset from Kaggle](https://www.kaggle.com/datasets/mahmoudnoor/high-resolution-catdogbird-image-dataset-13000/data)
+- Pre-trained Model: 'akahana/vit-base-cats-vs-dogs'
+- Dataset: [High-Resolution Cat, Dog, and Bird Image Dataset from Kaggle](https://www.kaggle.com/datasets/mahmoudnoor/high-resolution-catdogbird-image-dataset-13000/data)
 
 
 ### Project Aim:
