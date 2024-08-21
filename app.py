@@ -1,11 +1,8 @@
-#from dotenv import find_dotenv, load_dotenv #pip install python-dotenv
 from transformers import pipeline
 import streamlit as st
 from PIL import Image
 
-#chose a model
 pipeline = pipeline(task="image-classification", model="./model/checkpoint-334")
-
 
 st.title("Image classification")
 
