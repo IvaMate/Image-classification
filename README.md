@@ -19,4 +19,5 @@ Use the fine-tuned model: [Ticmate/fine-tuned-cat-dog-bird-model[(https://huggin
 Upload an Image: Use the app interface to upload an image and view the model's classification.
 
 Example of app.py:
-![brd](https://github.com/user-attachments/assets/b4928bff-dc01-4798-8705-8704f772b214)
+![aae6ba46-a1ae-435b-89dc-00034fbed462](https://github.com/user-attachments/assets/69237f34-94e2-41b2-a153-b748a30ecd30)
+
