@@ -13,10 +13,10 @@ This repository contains a project focused on fine-tuning a pre-trained model fr
 - Interactive Model Testing with Streamlit: The repository includes a Streamlit application (app.py) that provides an interactive interface for testing the fine-tuned model. Users can upload images to see the model's predictions and evaluate its accuracy in real-time.
 
 ### How to try out the model using streamlit app.py:
-Set Up: Clone the repository and install the requirements.txt.
-Run the Streamlit App: 'Execute streamlit run app.py' to launch the Streamlit application.
-Use the fine-tuned model: [Ticmate/fine-tuned-cat-dog-bird-model[(https://huggingface.co/akahana/vit-base-cats-vs-dogs)
-Upload an Image: Use the app interface to upload an image and view the model's classification.
+- Set Up: Clone the repository and install the requirements.txt.
+- Run the Streamlit App: 'Execute streamlit run app.py' to launch the Streamlit application.
+- Use the fine-tuned model: [Ticmate/fine-tuned-cat-dog-bird-model[(https://huggingface.co/akahana/vit-base-cats-vs-dogs)
+- Upload an Image: Use the app interface to upload an image and view the model's classification.
 
 Example of app.py:
 ![aae6ba46-a1ae-435b-89dc-00034fbed462](https://github.com/user-attachments/assets/69237f34-94e2-41b2-a153-b748a30ecd30)
