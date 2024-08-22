@@ -3,8 +3,8 @@
 This repository contains a project focused on fine-tuning a pre-trained model from HuggingFace to accurately classify images of birds, cats, and dogs. The project also includes a Streamlit application to demonstrate the model's performance.
 
 ### Model and dataset:
-- Pre-trained Model: ['akahana/vit-base-cats-vs-dogs'](https://huggingface.co/akahana/vit-base-cats-vs-dogs)
-- Dataset: [High-Resolution Cat, Dog, and Bird Image Dataset from Kaggle](https://www.kaggle.com/datasets/mahmoudnoor/high-resolution-catdogbird-image-dataset-13000/data)
+- Pre-trained Model: ['akahana/vit-base-cats-vs-dogs'](https://huggingface.co/akahana/vit-base-cats-vs-dogs).
+- Dataset: [High-Resolution Cat, Dog, and Bird Image Dataset from Kaggle](https://www.kaggle.com/datasets/mahmoudnoor/high-resolution-catdogbird-image-dataset-13000/data).
 
 
 ### Project Aim:
@@ -12,10 +12,10 @@ This repository contains a project focused on fine-tuning a pre-trained model fr
 
 - Interactive Model Testing with Streamlit: The repository includes a Streamlit application (app.py) that provides an interactive interface for testing the fine-tuned model. Users can upload images to see the model's predictions and evaluate its accuracy in real-time.
 
-### How to try out the model using streamlit app.py:
+### How to try out the model using streamlit:
 - Set Up: Clone the repository and install the requirements.txt.
-- Run the Streamlit App: 'Execute streamlit run app.py' to launch the Streamlit application.
-- Use the fine-tuned model: ['Ticmate/checkpoint-334-fine-tuned-model'](https://huggingface.co/Ticmate/checkpoint-334-fine-tuned-model)
+- Run the Streamlit App: Execute 'streamlit run app.py' to launch the Streamlit application.
+- Use the fine-tuned model: ['Ticmate/checkpoint-334-fine-tuned-model'](https://huggingface.co/Ticmate/checkpoint-334-fine-tuned-model).
 - Upload an Image: Use the app interface to upload an image and view the model's classification.
 
 Example of app.py:
