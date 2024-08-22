@@ -15,7 +15,7 @@ This repository contains a project focused on fine-tuning a pre-trained model fr
 ### How to try out the model using streamlit app.py:
 - Set Up: Clone the repository and install the requirements.txt.
 - Run the Streamlit App: 'Execute streamlit run app.py' to launch the Streamlit application.
-- Use the fine-tuned model: ['Ticmate/checkpoint-334-fine-tuned-model']([https://huggingface.co/akahana/vit-base-cats-vs-dogs](https://huggingface.co/Ticmate/checkpoint-334-fine-tuned-model))
+- Use the fine-tuned model: ['Ticmate/checkpoint-334-fine-tuned-model'](https://huggingface.co/akahana/vit-base-cats-vs-dogs](https://huggingface.co/Ticmate/checkpoint-334-fine-tuned-model)
 - Upload an Image: Use the app interface to upload an image and view the model's classification.
 
 Example of app.py:
